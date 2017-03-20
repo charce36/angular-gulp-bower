@@ -1,0 +1,11 @@
+{
+  "name": "minutas",
+  "version": "0.1.0",
+  "author": "mars0n klosehm",
+  "description": "Initial NPM Config file",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-bower": "^0.0.10",
+    "gulp-concat": "^2.4.3"
+  }
+}

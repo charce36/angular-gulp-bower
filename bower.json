@@ -1,0 +1,29 @@
+{
+    "name": "example",
+    "description": "Simple example of Angular 1 + Bower + Gulp",
+    "main": "app.min.js",
+    "authors": [
+        "charce36"
+    ],
+    "license": "TBD",
+    "keywords": [
+        "example",
+        "bower",
+        "angular",
+        "gulp"
+    ],
+    "homepage": "TBD",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "dist",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "",
+        "bootstrap": "3.3.2"
+    }
+}
