@@ -3,7 +3,7 @@ Simple example of Angular + Gulp + Bower
 
 # Installing
 $ npm install
-$ npm install -g gulp
+$ npm install
 
 # Run
 $ gulp
